@@ -26,6 +26,8 @@ const styles = StyleSheet.create({
 
 });
 
+// iconName = { Platform.OS === 'android' ? 'md-menu' : 'bars' }
+
 
 export default Template;
 
